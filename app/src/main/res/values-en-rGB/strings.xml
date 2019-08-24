@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Description</string>
+    <string name="overview">Overview</string>
+    <string name="rating">Rating</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="title">Title</string>
+    <string name="title_movie_detail">Movie Detail</string>
+</resources>
